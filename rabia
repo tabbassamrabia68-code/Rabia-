@@ -1,0 +1,565 @@
+# MASTER PROMPT: RABIA TABBASSAM — PREMIUM PERSONAL PORTFOLIO WEBSITE
+
+Act as a senior UI/UX designer, creative frontend engineer, and full-stack web developer.
+
+Your task is to design and build a premium, professional, modern, fully responsive personal portfolio website for **Rabia Tabbassam**, a BS Mathematics student, Python Developer, Data Analytics enthusiast, and aspiring AI Automation Engineer.
+
+Create a distinctive personal brand that communicates technical skills, academic knowledge, practical project development, creativity, and continuous learning.
+
+Do not create a generic portfolio template.
+
+The website must be complete, functional, visually impressive, beginner-friendly to maintain, and ready for GitHub and Vercel deployment.
+
+---
+
+## 1. PERSONAL INFORMATION
+
+Use the following information:
+
+**Full Name:** Rabia Tabbassam
+
+**Professional Headline:**
+Python Developer | Data Analytics Enthusiast | AI Automation Engineer | Mathematics Student
+
+**Location:** Multan, Pakistan
+
+**Education:**
+BS Mathematics  
+Bahauddin Zakariya University (BZU), Multan.
+
+**Academic Duration:** 2024–2028
+
+**Professional Identity:**
+- Python Developer
+- Mathematics Undergraduate
+- Data Analytics Enthusiast
+- AI Automation Engineer
+- Technology Enthusiast
+- Aspiring Software Developer
+
+**About Me:**
+
+I am Rabia Tabbassam, a BS Mathematics student at Bahauddin Zakariya University with a strong interest in Python development, data analytics, artificial intelligence, and automation.
+
+I enjoy transforming ideas into practical software solutions and developing applications that solve real-world problems.
+
+My academic background in Mathematics helps me develop analytical thinking, logical reasoning, and problem-solving skills.
+
+I am continuously improving my technical knowledge through academic projects, independent development, and practical learning.
+
+My goal is to build meaningful digital products and grow as a Python Developer, Data Analyst, and AI Automation Engineer.
+
+**GitHub:**
+https://github.com/tabbassamrabia68-code
+
+**LinkedIn:**
+https://linkedin.com/in/rabia-tabbassam
+
+**Professional Email:**
+Do not invent an email address. Create one clearly marked editable configuration variable.
+
+---
+
+## 2. TECHNICAL SKILLS
+
+Organize skills into professional visual categories.
+
+### Programming & Development
+- Python
+- Object-Oriented Programming (OOP)
+- SQL
+- HTML5
+- CSS3
+- JavaScript
+- CRUD Operations
+- Database Management
+
+### Database & Data Analytics
+- PostgreSQL
+- SQL Queries
+- Database Design
+- Data Analysis
+- Microsoft Excel
+- Power BI
+- Data Visualization
+- Maple
+
+### AI & Automation
+- AI Automation
+- AI-Assisted Development
+- Prompt Engineering
+- API Integration
+- Automation Workflows
+- AI Tools
+
+### Tools & Productivity
+- Visual Studio Code
+- Git
+- GitHub
+- pgAdmin
+- Microsoft Word
+- Microsoft Office
+
+### Digital Skills
+- Digital Marketing
+- Social Media Marketing
+- SEO Fundamentals
+- Content Management
+
+Important:
+- Display actual skills using elegant technology badges.
+- Do not invent proficiency percentages.
+- Do not claim professional experience with tools unless verified.
+- Organize skills into clean interactive cards.
+
+---
+
+## 3. FEATURED PROJECTS
+
+Create premium project cards with descriptions, technologies, project screenshots where available, GitHub links, and live demonstrations only when verified.
+
+### Project 1: AutoLedger — Smart Vehicle Inventory, History & Verification Management System
+
+This is the primary featured project.
+
+**Description:**
+
+AutoLedger is a database-driven vehicle management and verification system designed to manage vehicle inventory, ownership history, vehicle records, maintenance, repairs, mileage, documents, and verification information.
+
+**Core Features:**
+- Vehicle inventory management.
+- Vehicle registration and identification.
+- Owner management.
+- Ownership history tracking.
+- Vehicle maintenance records.
+- Repair management.
+- Mileage tracking.
+- Document management.
+- Vehicle verification.
+- Dashboard and analytics.
+- Database audit logs.
+- Search by VIN and registration number.
+
+**Technology Stack:**
+- Python
+- FastAPI
+- PostgreSQL
+- HTML
+- CSS
+- JavaScript
+- pgAdmin
+
+**Project Highlights:**
+- Relational database design.
+- Primary and foreign keys.
+- Database normalization.
+- SQL joins and queries.
+- Constraints and triggers.
+- CRUD operations.
+- Backend API development.
+- Frontend integration.
+
+Show AutoLedger as a major full-stack and database management project.
+
+Do not claim features are production-ready unless verified in the actual implementation.
+
+### Project 2: Student Management System
+
+**Description:**
+
+A Python-based student management application designed to manage student information and perform essential record-management operations.
+
+**Core Features:**
+- Add student records.
+- View student information.
+- Update records.
+- Delete records.
+- Search functionality.
+- Input validation.
+- Data management.
+
+**Technologies:**
+- Python
+- OOP
+- Functions
+- SQLite or JSON, depending on the verified implementation.
+
+### Project 3: Employee Management System
+
+**Description:**
+
+A Python project focused on managing employee information and demonstrating practical programming and record-management concepts.
+
+### Project 4: Bank Management System
+
+**Description:**
+
+A Python application demonstrating basic banking operations, account management, and programming logic.
+
+### Project 5: Calculator Application
+
+A simple Python-based calculator demonstrating programming fundamentals and mathematical operations.
+
+### Project 6: Password Generator
+
+A Python utility application for generating passwords using programming logic.
+
+### Project 7: Number Guessing Game
+
+An interactive Python project demonstrating conditional statements, loops, and random number generation.
+
+**GitHub Profile:**
+https://github.com/tabbassamrabia68-code
+
+Important project rules:
+- Use actual repository links where available.
+- Never invent repository URLs.
+- Do not invent technologies for projects.
+- Keep unavailable live-demo links hidden.
+- Allow project URLs to be configured in one central JavaScript configuration object.
+- Make AutoLedger the visually prominent featured project.
+
+---
+
+## 4. EDUCATION
+
+Create an elegant education section.
+
+**Degree:** BS Mathematics
+
+**Institution:** Bahauddin Zakariya University (BZU)
+
+**Department:** Mathematics
+
+**Location:** Multan, Pakistan
+
+**Academic Duration:** 2024–2028
+
+Highlight the connection between Mathematics, programming, analytical thinking, logical reasoning, and software development.
+
+Do not invent grades, GPA, academic awards, or certificates.
+
+---
+
+## 5. DESIGN DIRECTION
+
+Create a premium, futuristic, professional personal portfolio.
+
+**Color Palette:**
+- Main Background: #080D18
+- Secondary Background: #101827
+- Card Background: #151F30
+- Primary Text: #F5F7FA
+- Secondary Text: #A7B2C5
+- Primary Accent: #4285FF
+- Secondary Accent: #35D5F2
+
+**Visual Style:**
+- Premium dark developer aesthetic.
+- Modern typography.
+- Elegant glassmorphism.
+- Subtle glowing gradients.
+- Animated background mesh.
+- Floating gradient elements.
+- Subtle grid texture.
+- Professional project cards.
+- Clean layouts.
+- Smooth transitions.
+- Minimal and meaningful animations.
+
+Avoid excessive neon effects, unnecessary animations, and clutter.
+
+Use Inter, Manrope, or Plus Jakarta Sans.
+
+### Hero Section
+
+The first screen must create a strong professional impression.
+
+Display:
+
+RABIA TABBASSAM
+
+Python Developer | Data Analytics Enthusiast
+
+"Turning ideas into intelligent solutions through code, mathematics, and technology."
+
+Add:
+- View My Projects button.
+- Download CV button only when an actual CV is configured.
+- Contact Me button.
+- GitHub profile link.
+- LinkedIn profile link.
+- Professional initials avatar (RT), not an invented portrait.
+
+Add a subtle typing animation featuring:
+- Python Developer
+- Data Analytics Enthusiast
+- Mathematics Student
+- AI Automation Engineer
+
+Respect prefers-reduced-motion settings.
+
+---
+
+## 6. WEBSITE STRUCTURE
+
+Build the following complete sections:
+
+1. Sticky Navigation.
+2. Hero / Introduction.
+3. About Me.
+4. Technical Skills.
+5. Featured Projects.
+6. Education.
+7. Learning & Career Interests.
+8. Contact.
+9. Footer.
+
+### Navigation
+
+Include:
+- Home
+- About
+- Skills
+- Projects
+- Education
+- Interests
+- Contact
+
+Implement a fully functional mobile navigation menu.
+
+### About Section
+
+Use a modern split layout containing:
+- Personal introduction.
+- Academic background.
+- Programming interests.
+- Data analytics interests.
+- AI and automation interests.
+- Development philosophy.
+
+### Skills Section
+
+Use categorized technology cards and badges.
+
+### Projects Section
+
+Use professional project cards.
+
+Each card must include:
+- Project title.
+- Description.
+- Technology badges.
+- GitHub button.
+- Live demo button only if verified.
+- Optional project preview image.
+
+Make AutoLedger the primary featured project.
+
+### Education Section
+
+Show the BS Mathematics degree and BZU information clearly.
+
+### Learning & Career Interests
+
+Highlight:
+- Python Development.
+- Data Analytics.
+- Artificial Intelligence.
+- AI Automation.
+- Database Management.
+- Full-Stack Development.
+- Problem Solving.
+
+Do not represent learning interests as completed professional qualifications.
+
+### Contact Section
+
+Include:
+- GitHub.
+- LinkedIn.
+- Configurable professional email.
+
+Do not create a fake contact form that claims to send messages.
+
+Use a mailto link only when a valid email address is configured.
+
+---
+
+## 7. FUNCTIONAL REQUIREMENTS
+
+The website must:
+
+- Be fully responsive on mobile, tablet, laptop, and desktop.
+- Have working navigation.
+- Have functional project links.
+- Include a working mobile menu.
+- Include smooth scrolling.
+- Have accessible interactive elements.
+- Include visible keyboard focus indicators.
+- Support reduced-motion preferences.
+- Use semantic HTML.
+- Have optimized assets.
+- Have no broken buttons.
+- Have no horizontal overflow.
+- Load efficiently.
+- Include SEO metadata.
+- Include a custom favicon using RT initials.
+- Include a custom 404 page if supported by the deployment structure.
+
+Do not expose API keys, passwords, or private information.
+
+---
+
+## 8. TECHNICAL IMPLEMENTATION
+
+Preferred stack:
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+
+Use this project structure:
+
+portfolio/
+│
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+├── 404.html
+│
+└── assets/
+    ├── images/
+    ├── icons/
+    └── favicon/
+
+Keep the implementation clean, modular, reusable, and beginner-friendly.
+
+Do not change to React or another framework without explaining the substantial benefit first.
+
+Avoid unnecessary dependencies and paid services.
+
+Create a central configuration object for:
+- Professional email.
+- GitHub profile.
+- LinkedIn profile.
+- Project repository URLs.
+- Live demo URLs.
+- CV download path.
+
+Missing information must remain configurable.
+
+---
+
+## 9. PERSONAL BRANDING
+
+Build a consistent personal brand around:
+
+RABIA TABBASSAM
+
+**Main Tagline:**
+
+"Where Mathematics Meets Technology."
+
+The website should communicate:
+
+- Technical capability.
+- Analytical thinking.
+- Creativity.
+- Problem-solving.
+- Programming knowledge.
+- Database development.
+- Continuous learning.
+- Professional growth.
+
+The portfolio must be suitable for:
+- Internship applications.
+- Python Developer opportunities.
+- Data Analyst opportunities.
+- AI Automation Engineer opportunities.
+- GitHub profile presentation.
+- LinkedIn professional branding.
+- University project presentations.
+- Professional networking.
+
+---
+
+## 10. DEPLOYMENT REQUIREMENTS
+
+Prepare the website for GitHub and Vercel deployment.
+
+Include:
+
+- Complete working source code.
+- README.md.
+- Installation instructions.
+- Local development instructions.
+- Git initialization instructions.
+- GitHub push commands.
+- Vercel deployment instructions.
+- SEO configuration.
+- Final testing checklist.
+
+The website must work locally without requiring API keys or paid services.
+
+---
+
+## 11. EXECUTION INSTRUCTIONS
+
+Follow this exact workflow:
+
+Step 1: Inspect the existing repository and understand its structure.
+
+Step 2: Prepare the website architecture and design system.
+
+Step 3: Create the complete project structure.
+
+Step 4: Implement all website sections.
+
+Step 5: Add responsive styling and animations.
+
+Step 6: Implement all interactions and navigation.
+
+Step 7: Configure project links and personal information.
+
+Step 8: Verify all links and functionality.
+
+Step 9: Test mobile, tablet, and desktop layouts.
+
+Step 10: Fix errors and remove unused code.
+
+Step 11: Write complete README documentation.
+
+Step 12: Prepare the project for GitHub and Vercel deployment.
+
+**IMPORTANT SAFETY INSTRUCTIONS:**
+
+- Inspect the existing repository before making changes.
+- Preserve existing useful code and project files.
+- Do not delete existing repositories or projects.
+- Do not overwrite existing work without approval.
+- Do not expose credentials or secrets.
+- Do not commit or push changes without explicit permission.
+- Do not invent personal information or achievements.
+- Do not fabricate certificates, employment, clients, or professional experience.
+- Verify project links before displaying them.
+- Do not claim successful deployment without actually verifying it.
+
+If repository access is available, implement the complete website directly in the workspace rather than providing isolated code snippets.
+
+Do not stop after creating the homepage.
+
+Complete the entire portfolio, test it, and prepare it for deployment.
+
+---
+
+## FINAL EXPECTATION
+
+Deliver a complete, premium, responsive, professional personal portfolio website for **Rabia Tabbassam**.
+
+The final website should communicate the identity of a Mathematics student who is actively developing practical skills in Python, database systems, data analytics, and AI automation.
+
+It should look polished enough to present to recruiters, university faculty, internship providers, and professional technology communities.
+
+The result must be a real, functional website rather than just a visual design or homepage mockup.
